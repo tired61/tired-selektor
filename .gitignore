@@ -1,0 +1,19 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# FiveM Cache
+cache/
+server-cache/
+server-cache-priv/
+
+# Backups
+*.bak
+*.lua.bk
