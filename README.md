@@ -21,3 +21,5 @@ Config.FlashCount = 3 -- Kaç kere yanıp söneceği
 Config.FlashSpeed = 150 -- Yanıp sönme hızı (ms)
 ```
 
+# Video
+https://www.youtube.com/watch?v=ShiFMcdJDpQ
